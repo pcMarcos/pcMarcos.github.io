@@ -1,6 +1,6 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Marcos Carvalho
+tagline:      This is my personal website, where I share some learnings and thoughts
 baseurl:      ""
 paginate:     1
 locale:       "en"
@@ -8,7 +8,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Marcos Carvalho
-  url:        http://yourhomepage.com
+  url:        https://www.linkedin.com/in/mpcarvalho
 
 # Gems
 gems:
