@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Transição de carreira: da música para a tecnologia"
-date: 2023-16-02 08:00:00
+date: 2023-02-16 08:00:00
 categories: main
 ---
 
