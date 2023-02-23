@@ -15,9 +15,9 @@ Ao se discutir transição de carreira, uma pergunta sempre vem à mente: por qu
 
 #### Iniciando na tecnologia
 
-Há uma concepção errada de que há uma falta de relação entre música e tecnologia, e foi com essa mentalidade também que entrei na programação. Mas aos poucos fui desconstruindo esta crença com a seguinte estratégia: encontrar paralelos entre as áreas. É possível identificar relações e paralelos entre diversas áreas do conhecimento e certamente a música e a tecnologia têm diversas coisas em comum.
+Há uma concepção errada de que há uma falta de relação entre música e tecnologia, e foi com essa mentalidade também que entrei na programação. Mas aos poucos fui desconstruindo esta crença com a seguinte estratégia: **encontrar paralelos entre as áreas**. É possível identificar relações e paralelos entre diversas áreas do conhecimento e certamente a música e a tecnologia têm diversas coisas em comum.
 
-Em meus estudos de educação musical, durante meu curso de licenciatura, tive contato com diversas pessoas que pensaram sobre a pedagogia e aprendizado musical. Dentre elas destaco David Ausubel e Paulo Freire, que trouxeram o conceito da aprendizagem significativa, que tem o objetivo de abordar um novo conhecimento, relacionando com um conhecimento prévio do aluno, trazendo não só uma relação cognitiva, mas também afetiva, e fazendo que o processo de aprendizagem seja mais efetivo.
+Em meus estudos de educação musical, durante meu curso de licenciatura, tive contato com diversas pessoas que pensaram sobre a pedagogia e aprendizado musical. Dentre elas destaco David Ausubel e Paulo Freire, que trouxeram o conceito da **aprendizagem significativa**, que tem o objetivo de abordar um novo conhecimento, relacionando com um conhecimento prévio do aluno, trazendo não só uma relação cognitiva, mas também afetiva, e fazendo que o processo de aprendizagem seja mais efetivo.
 
 Assim que concluí que poderia usar essa abordagem à meu favor, comecei a enxergar que várias tecnologias, linguagens, bibliotecas, pessoas programadoras faziam referências à música em seu trabalho com programação (você pode conferir essas referências ao final do artigo).
 
@@ -25,19 +25,19 @@ Assim que concluí que poderia usar essa abordagem à meu favor, comecei a enxer
 
 Ao longo do processo de transição, as relações entre as áreas começaram a ficar cada vez mais claras. Fui coletando alguns destes aprendizados e quero compartilhar, com a intenção de ajudar quem estiver interessado em fazer uma transição de carreira.
 
-#### Aprendizagem
+### Aprendizagem
 
-Tanto a música quanto a tecnologia estão sempre em constante mudança. Temos que sempre aprender coisas novas onde vemos constantemente a ideia de lifelong learners, ou seja, aprendizes para a vida toda. Há sempre uma nova linguagem, padrão ou tecnologia para aprendermos na tecnologia, assim como na música, temos que aprender novos estilos, obras e músicas. Em ambas as áreas, uma otimização do processo de aprendizagem é extremamente necessário. Temos que aprender a aprender.
+Tanto a música quanto a tecnologia estão sempre em constante mudança. Temos que sempre aprender coisas novas onde vemos constantemente a ideia de lifelong learners, ou seja, aprendizes para a vida toda. Há sempre uma nova linguagem, padrão ou tecnologia para aprendermos na tecnologia, assim como na música, temos que aprender novos estilos, obras e músicas. Em ambas as áreas, uma otimização do processo de aprendizagem é extremamente necessário. Temos que **aprender a aprender**.
 
 Alguns pensadores acreditam que na realidade atual do mundo do trabalho, a curva de esquecimento talvez seja tão importante quanto (ou mais) que a curva de aprendizagem, onde temos que estar constantemente nos atualizando e deixando de utilizar métodos e conhecimentos depreciados, que já não tem mais tanta relevância.
 
 #### Prática
 
-Ambas as profissões de musicista ou pessoa programadora, são profissões de prática: quanto mais se pratica, melhor você se torna. Mas aqui deixo um ponto de atenção: não é quanto se pratica em termos de quantidade, mas sim de qualidade. Muitos de nós temos uma ideia romantizada sobre estas profissões, quando pensamos numa pessoa desenvolvedora que passa horas e horas programando, virando noites para se tornar uma super hacker; ou até mesmo a musicista que toca 12 horas por dia para participar de um concurso ou fazer um recital importante, ou até mesmo a pessoa compositora que teve uma grande inspiração para um obra de arte e passa dias e noites à fio compondo.
+Ambas as profissões de musicista ou pessoa programadora, são profissões de prática: quanto mais se pratica, melhor você se torna. Mas aqui deixo um ponto de atenção: não é quanto se pratica em termos de **quantidade**, mas sim de **qualidade**. Muitos de nós temos uma ideia romantizada sobre estas profissões, quando pensamos numa pessoa desenvolvedora que passa horas e horas programando, virando noites para se tornar uma super hacker; ou até mesmo a musicista que toca 12 horas por dia para participar de um concurso ou fazer um recital importante, ou até mesmo a pessoa compositora que teve uma grande inspiração para um obra de arte e passa dias e noites à fio compondo.
 
-Infelizmente esse estereótipo ainda é alimentado de diversas maneiras e temos que buscar desconstruir esse mito. Por que? Porque eu aprendi isso da pior maneira: quando estudava contrabaixo acústico, que é um instrumento muito exigente fisicamente, comecei a sentir, um dia, algumas dores no braço esquerdo e não sabia do que se tratava, até que fiz uma consulta médica e descobri que estava começando a ter problemas no pulso, muito parecido com o problema que jogadores de tênis tem. Quando levei isso para minha professora, na hora ela disse: você está praticando demais e de forma incorreta.
+Infelizmente esse estereótipo ainda é alimentado de diversas maneiras e temos que buscar desconstruir esse mito. Por que? Porque eu aprendi isso da pior maneira: quando estudava contrabaixo acústico, que é um instrumento muito exigente fisicamente, comecei a sentir, um dia, algumas dores no braço esquerdo e não sabia do que se tratava, até que fiz uma consulta médica e descobri que estava começando a ter problemas no pulso, muito parecido com o problema que jogadores de tênis tem. Quando levei isso para minha professora, na hora ela disse: **você está praticando demais e de forma incorreta**.
 
-O aprendizado que trago disso para programação é que a prática deve ser sustentável, respeitando seus limites, aceitando os erros e aprendendo com eles. A busca por essa sustentabilidade, na prática, também traz um grande benefício: consistência. Descobertas recentes na neurociência provaram o que pensadores, cientistas e pedagogas já indicavam: a consistência é mais importante do que a intensidade. Então praticar todos os dias, de maneira otimizada e atenta, é muito mais eficiente.
+O aprendizado que trago disso para programação é que a prática deve ser **sustentável**, respeitando seus limites, aceitando os erros e aprendendo com eles. A busca por essa sustentabilidade, na prática, também traz um grande benefício: **consistência**. Descobertas recentes na neurociência provaram o que pensadores, cientistas e pedagogas já indicavam: a consistência é mais importante do que a intensidade. Então praticar todos os dias, de maneira otimizada e atenta, é muito mais eficiente.
 
 #### Colaboração
 
@@ -71,34 +71,44 @@ Uma transição de carreira pode ser desafiadora, mas nós podemos aceitar e aco
 
 Aplicando a aprendizagem significativa na minha transição para a tecnologia, essas foram algumas referências que encontrei, que aproximaram a programação do meu universo musical:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bzuyd0oa4m3w5pmr2g1x.png)
+![composer php](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0chrjwrzkf4dnn83t42l.jpg)
+
 Composer – Gerenciador de dependências para a linguagem PHP.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2xxjos803zlmtqbqx9bv.png)
+![sinatra framework](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/229e4qnxn7my65i03hvu.jpg)
+
 Sinatra – framework Ruby, tem seu nome inspirado no cantor Frank Sinatra.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sd8p8l1n9v3rv4h1u8ss.png)
+![symfony framework](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxi6o3gmuwklbkturael.jpg)
+
 Symfony – framework PHP.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ec1o57dfjjqcy5rffa5n.png)
+![django framework](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjehk1n1gjgve3n0t2wm.jpg)
+
 Django – framework Python, tem seu nome baseado no guitarrista de jazz Django Reinhardt.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ratlod4cx4s8jrifx1em.png)
+![container orchestration](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/02e36qpmkrm3e8twput1.jpg)
+
 Orquestração de containers, inspirado na ideia da condução de uma orquestra que o maestro ou maestrina exerce.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8qp9dmp4slmyne5t2obx.png)
-Sonic Pi é uma ferramenta de criação e performance musical baseada na linguagem Ruby.
+![sonic pi](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9f0wdagy53101hy68mdg.jpg)
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jjutz1a9s0r9f6njgtwm.png)
-Rich Hickey, criador da linguagem Clojure. Tem formação em composição musical, trabalha também como compositor e guitarrista. Quem quiser conferir, há essa palestra muito legal que ele apresentou sobre design, composição e performance, trazendo também referências da música para a programação.
+[Sonic Pi](https://sonic-pi.net/) é uma ferramenta de criação e performance musical baseada na linguagem Ruby.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wm5ohj80u87zz1de4eho.png)
-Adrian Holovaty, um dos criadores do framework Django. É músico e guitarrista de jazz. Você pode conferir alguns vídeos dele no seu canal oficial do YouTube.
+![rich hickey](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/piajodeg5rdr638nmvxi.jpg)
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vk8okn00jvnfc8p8mk7x.png)
-Chad Fowler, desenvolvedor, palestrante e autor do livro “The Passionate Programmer”. Constantemente aborda relações entre música e programação em suas palestras. Você pode conferir uma delas aqui.
+Rich Hickey, criador da linguagem Clojure. Tem formação em composição musical, trabalha também como compositor e guitarrista. Quem quiser conferir, [há essa palestra](https://www.youtube.com/watch?v=MCZ3YgeEUPg&ab_channel=ZhangJian) muito legal que ele apresentou sobre design, composição e performance, trazendo também referências da música para a programação.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fn9a4o9t6mb7dx9r1xrv.png)
-Why the lucky stiff, desenvolvedor, hacker e figura icônica da comunidade Ruby. Criador do clássico guia de aprendizagem Ruby “Why’s (Poignant) Guide to Ruby”, que pode ser conferido aqui. Para este guia ele produziu também uma trilha sonora sensacional, onde na faixa “The Parts of Ruby” ele afirma: “entenda que um programa são só palavras” (do original em inglês: “get through your head that a program is just words”).
+![adrian holovaty](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o8aqnqzynnmk7t82p65j.jpg)
+
+Adrian Holovaty, um dos criadores do framework Django. É músico e guitarrista de jazz. Você pode conferir alguns vídeos dele no seu [canal oficial do YouTube](https://www.youtube.com/c/adrianholovaty).
+
+![chad fowler](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/flj5kcy0eiqelyx327y6.jpg)
+
+Chad Fowler, desenvolvedor, palestrante e autor do livro “The Passionate Programmer”. Constantemente aborda relações entre música e programação em suas palestras. Você pode conferir uma delas [aqui](https://www.youtube.com/watch?v=CkfjCef-iYI&t=179s&ab_channel=DevDay).
+
+![why playing guitar](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otxw7r6yqobsa651jscg.jpg)
+
+Why the lucky stiff, desenvolvedor, hacker e figura icônica da comunidade Ruby. Criador do clássico guia de aprendizagem Ruby “Why’s (Poignant) Guide to Ruby”, que pode ser conferido [aqui](https://poignant.guide/). Para este guia ele produziu também[ uma trilha sonora sensacional](https://poignant.guide/soundtrack/), onde na faixa “The Parts of Ruby” ele afirma: “entenda que um programa são só palavras” (do original em inglês: “get through your head that a program is just words”).
 
 Post originalmente escrito para o blog da [Pipefy](https://engineering.pipefy.com/2022/10/28/transicao-de-carreira-da-musica-para-a-tecnologia/)
