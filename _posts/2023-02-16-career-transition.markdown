@@ -2,7 +2,7 @@
 layout: default
 title: "Transição de carreira: da música para a tecnologia"
 date: 2023-02-16 08:00:00
-categories: main
+categories: career-transition
 ---
 
 Diante do cenário de crescente demanda por pessoas desenvolvedoras no mundo inteiro, há uma grande movimentação de profissionais ingressando na tecnologia. Muitas destas pessoas estão iniciando no mercado de trabalho agora, mas outras dedicaram seus esforços em direção a outras carreiras e agora estão questionando se não seria um momento de fazer mudanças e buscar uma transição, visto que as oportunidades são inúmeras e o mercado de tecnologia está cada vez mais inclusivo e diverso. Eu fui um destes profissionais que optou pela transição. A ideia deste artigo é contar um pouco sobre esse processo de transição e compartilhar algumas estratégias que utilizei para mitigar a aparente falta de relação entre as áreas de tecnologia e música.
