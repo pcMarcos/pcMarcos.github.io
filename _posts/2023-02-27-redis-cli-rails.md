@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "How Jekyll works under the hood?"
+title: "redis-cli: checking memory consumption"
 date: 2023-02-27 17:05:00
 categories: redis rails
 ---
@@ -17,7 +17,7 @@ Check if your Redis implementation has more than one database. You can connect t
 To list all keys you can run `keys *` or follow an specific pattern like `keys user*`.
 
 
-You have the key you need, you can get the stored information in that key with 
+You have the key you need, you can get the stored information in that key with
 
 `GET user_1_attributes`.
 
