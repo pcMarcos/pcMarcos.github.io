@@ -14,6 +14,8 @@ But I wondered how it really works under the hood? I decided to take a look and 
 
 Everything starts with the file structure, with consists in basically in *pages*, *posts* and *assets* which will contain all the necessary styling and other resources such as images, icons, videos, etc.
 
+Jekyll uses a concept called [*front matter*](https://jekyllrb.com/docs/front-matter/) which is basically processing YAML files as special files.
+
 After that the command `jekyll build` is responsible to turn all the files created in markdown files in a static website. To understand better this command, let's take a look at Jekyll's [main repository](https://github.com/jekyll/jekyll)
 
 
